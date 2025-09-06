@@ -1,6 +1,6 @@
 # Flight Delay Analyzer ✈️
 
-A script to analyze and predict flight delayss.
+A script to analyze and predict flight delays.
 
 ## Quick Start
 
